@@ -1,5 +1,6 @@
 # NewsForumAPI
 Тестовое задание на летнюю практику в UDV - Unity In Development.
+
 [![black](https://img.shields.io/badge/code%20style-black-black)](https://pypi.org/project/black/)
 ## Установка окружения
 
@@ -29,7 +30,7 @@
 - Windows
     
     ```bash
-    source venv/Scripts/activate
+    venv/Scripts/activate
     ```
 После выполнения команды, терминал будет отображать строку `(venv)`.
 
